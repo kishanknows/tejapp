@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061869204882",
+    "project_id": "tejapp-56936",
+    "storage_bucket": "tejapp-56936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061869204882:android:2b10e6bf63260202253d4b",
+        "android_client_info": {
+          "package_name": "com.tejapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061869204882-ooll8h1kvb8e220pu0dl6evmk4pg0n1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFr_s3MYYLKp80JAl2-zalqK8oTFESm-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061869204882-ooll8h1kvb8e220pu0dl6evmk4pg0n1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
